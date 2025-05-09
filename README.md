@@ -1,7 +1,7 @@
 # first
 This is my first repository 
 <br>
-I am rajnish kumar.
+I am chunnu.
 <br>
 Today is 9th of may,2025.
 i am making some changes
